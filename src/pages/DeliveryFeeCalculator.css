@@ -1,0 +1,23 @@
+.divider {
+    font-size: medium !important;
+    margin-bottom: 1rem !important;
+}
+
+.result-text {
+    font-size: large;
+    font-weight: 500;
+}
+
+@media screen and (min-width: 600px) {
+    .divider {
+        font-size: large !important;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .divider {
+        font-size: x-large !important;
+        margin-bottom: 1rem !important;
+    }
+
+}
