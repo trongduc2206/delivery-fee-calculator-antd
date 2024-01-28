@@ -1,4 +1,3 @@
-import './App.css';
 import DeliveryFeeCalculator from './pages/DeliveryFeeCalculator';
 import { useEffect } from 'react';
 
